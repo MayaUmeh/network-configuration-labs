@@ -23,4 +23,4 @@ Skills
 
 Cisco IOS configuration · RIP · DHCP · VLANs · subnetting · Ubuntu Linux · technical documentation
 
-Website · LinkedIn 
+
